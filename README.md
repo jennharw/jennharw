@@ -25,9 +25,9 @@
 <br>
 
 <h3 align="center">Backend Developer</h3>
-  
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennharw&show_icons=true&theme=radical)
+
+
+![Harim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennharw&show_icons=true&theme=radical)
 
 
 
