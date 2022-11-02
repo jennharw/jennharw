@@ -19,14 +19,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-DB3552?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+
+  <br>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
-
-
-
-
 
 <h3 align="center">Backend Developer</h3>
 <div align="center" style="text-align:center">
@@ -35,16 +34,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennharw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
-  
 </div>
   
-<br>
-<h3 align="center">Blog</h3>
-
-
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
