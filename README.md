@@ -24,10 +24,25 @@
 
 <br>
 
+
+
+
+
 <h3 align="center">Backend Developer</h3>
-
-
+<div align="center" style="text-align:center">
+  
 ![Harim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennharw&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennharw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
+  
+</div>
+  
+<br>
+<h3 align="center">Blog</h3>
 
 
 
@@ -37,6 +52,3 @@
   <a href="mailto:holly001503@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED
